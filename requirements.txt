@@ -1,0 +1,16 @@
+
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
+langchain
+langgraph
+openai
+pydantic
+qdrant-client
+sentence-transformers
+python-docx
+pdfplumber
+pillow
+pytesseract
